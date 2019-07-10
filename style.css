@@ -1,0 +1,174 @@
+body{
+  background-color: #F9EED8
+}
+h1{
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: lightgrey;
+  padding: 20px;
+  text-align: center;
+  align-items: baseline;
+}
+img{
+  margin: 10px;
+}
+.images{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.one{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.two{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.three{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.four{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.five{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.six{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.seven{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.eight{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.nine{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.ten{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.eleven{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twelve{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.thirteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.fourteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.fifthteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.sixteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.seventeen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.eighteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.nineteen{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twenty{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentyone{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentytwo{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentythree{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentyfour{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentyfive{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+
+.twentysix{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentyseven{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentyeight{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.twentynine{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+.thirty{
+  object-fit: cover;
+  width: 400px;
+  height:400px;
+}
+@media screen and (max-width: 900px){
+  image-container{
+    display: flex
+    flex-direction: column
+  }
